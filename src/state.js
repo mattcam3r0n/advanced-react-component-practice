@@ -1,9 +1,9 @@
 export default {
   dateTime: "Yesterday at 4:32 PM",
   newComments: 23,
-  newTasks: 12,
-  newOrders: 124,
-  tickets: 13,
+  newTasks: 13,
+  newOrders: 125,
+  tickets: 14,
   taskItem: "Calendar updated",
   tasks: [{
     id: 1,
