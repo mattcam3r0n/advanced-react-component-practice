@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 
 export default function TransactionRow(props) {
   const { order } = props;
-  console.log(order);
   return (
     <tr>
       <td>{order.id}</td>

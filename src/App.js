@@ -14,7 +14,6 @@ import TransactionsPanel from "./components/TransactionsPanel";
 import PropTypes from "prop-types";
 
 function App(props) {
-  console.log("App props", props);
   const { orders, tasks, messages } = props;
   return (
     <div>
